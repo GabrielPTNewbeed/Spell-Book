@@ -1,0 +1,91 @@
+🧮 Calculadora Avançada v1.0
+
+Uma calculadora gráfica feita em Python + Tkinter, com suporte a expressões matemáticas, funções avançadas, histórico de cálculos e atalhos de teclado.
+
+🚀 Funcionalidades
+
+Interface gráfica amigável com Tkinter
+
+Operações matemáticas básicas (+, −, ×, ÷, %)
+
+Funções avançadas:
+
+Potência (x²)
+
+Raiz quadrada (√)
+
+Inverso (1/x)
+
+Constantes matemáticas (π, e)
+
+Funções sin, cos, tan, log, ln, etc.
+
+Suporte a parênteses em expressões
+
+Histórico de até 20 operações recentes
+
+Atalhos de teclado:
+
+Enter ou = → Calcular
+
+ESC ou Delete → Limpar
+
+Backspace → Apagar último dígito
+
+Armazenamento de configurações em JSON
+
+🛠️ Tecnologias usadas
+
+Python 3.8+
+
+Tkinter (interface gráfica)
+
+JSON (armazenamento de histórico/configurações)
+
+Math (funções matemáticas)
+
+📦 Instalação
+
+Clone este repositório ou baixe o arquivo:
+
+git clone https://github.com/seuusuario/calculadora-avancada.git
+
+
+Certifique-se de ter o Python 3.8+ instalado:
+
+python --version
+
+
+Execute o arquivo principal:
+
+python calculadora.py
+
+🖥️ Uso
+
+Clique nos botões da interface ou utilize os atalhos de teclado.
+
+O resultado aparecerá no display principal.
+
+Para visualizar o histórico, clique em Hist.
+
+📁 Estrutura do Projeto
+calculadora/
+│── calculadora.py        # Código principal
+│── calculadora_config.json  # Arquivo de configurações (criado automaticamente)
+│── README.md             # Documentação
+
+📷 Exemplo da Interface
+
+(Adicione um print da calculadora aqui quando quiser ilustrar)
+
+🔮 Melhorias Futuras
+
+Adicionar temas (claro/escuro)
+
+Suporte a mais funções científicas
+
+Modo programador (binário, hexadecimal, etc.)
+
+📜 Licença
+
+Este projeto é livre para uso pessoal e acadêmico.
